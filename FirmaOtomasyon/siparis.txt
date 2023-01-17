@@ -1,0 +1,2 @@
+ 1 21 3000 yusf 2 laptop
+ 2 31 2500 kursad 3 telefon
